@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-haversin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compute the half-value versed sine.",
   "license": "Apache-2.0",
   "author": {
