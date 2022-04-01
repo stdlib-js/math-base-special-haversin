@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/math-base-special-haversin",
+  "version": "0.0.0",
+  "description": "Compute the half-value versed sine.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-haversin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "haversin",
+    "haversine",
+    "versed sine",
+    "haversed sine",
+    "haversed",
+    "hv",
+    "hvs",
+    "sem",
+    "havers",
+    "semiversinus",
+    "semiversin",
+    "semiversus",
+    "cosine",
+    "sine",
+    "cos",
+    "sin",
+    "trig",
+    "trigonometry",
+    "radians",
+    "angle"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
