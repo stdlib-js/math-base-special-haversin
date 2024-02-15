@@ -63,6 +63,11 @@ The half-value [versed sine][versed-sine] is defined as
 ## Usage
 
 ```javascript
+import haversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-haversin@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-haversin/tags). For example,
+
+```javascript
 import haversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-haversin@v0.2.0-esm/index.mjs';
 ```
 
@@ -99,7 +104,7 @@ v = haversin( -3.141592653589793/6.0 );
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@esm/index.mjs';
-import haversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-haversin@v0.2.0-esm/index.mjs';
+import haversin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-haversin@esm/index.mjs';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
